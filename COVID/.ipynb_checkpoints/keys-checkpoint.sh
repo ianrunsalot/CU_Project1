@@ -1,0 +1,1 @@
+export MAPBOX_API_KEY="pk.eyJ1IjoiZmxvcGV6MjAiLCJhIjoiY2s5YWppamdzMXJqcjNlbzV0OTViMjZqciJ9.5oz37E-ml_4HkuGpZgS_tQ"
